@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">A passionate Frontend Developer & Java Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Frontend Developer & Java Enthusiast from India </h3>
 
 ---
 
