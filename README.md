@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 Currently learning **Java** and **Spring Boot**
+- 🌱 Currently learning **Frontend Development** and **Java DSA**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 Reach me at **tejasparate53@gmail.com**
 
